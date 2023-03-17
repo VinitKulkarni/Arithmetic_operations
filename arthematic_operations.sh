@@ -1,7 +1,6 @@
 #!/bin/bash
 
 echo "*** YOU CAN PERFORM ARITHEMATIC OPERATION ***"
-echo "Add | Sub | Mul"
 
 a=10;
 b=5;
