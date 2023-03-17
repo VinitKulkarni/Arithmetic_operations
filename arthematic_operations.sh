@@ -16,3 +16,7 @@ echo "substraction result: $result_substract"
 #multiplication code
 result_multiple=$(($a*$b))
 echo "multiplication result: $result_multiple"
+
+#division code
+result_division=$(($a/$b))
+echo "division result: $result_division"
