@@ -12,3 +12,7 @@ echo "addition result: $result_add"
 #substraction code
 result_substract=$(($a-$b))
 echo "substraction result: $result_substract"
+
+#multiplication code
+result_multiple=$(($a*$b))
+echo "multiplication result: $result_multiple"
