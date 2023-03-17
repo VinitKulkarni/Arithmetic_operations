@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "YOU CAN PERFORM ARITHEMATIC OPERATION"
